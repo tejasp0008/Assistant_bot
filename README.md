@@ -22,7 +22,7 @@ Toru is a Python-based voice assistant that can perform various tasks using voic
 ## Usage
 
 1. Clone this repository to your local machine:
-
+```
 ```bash
 git clone https://github.com/tejasp0008/toru.git
 ```
