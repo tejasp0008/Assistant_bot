@@ -1,4 +1,4 @@
-```markdown
+```
 # Toru Voice Assistant
 
 Toru is a Python-based voice assistant that can perform various tasks using voice commands. It utilizes speech recognition and text-to-speech technology to interact with users in natural language.
